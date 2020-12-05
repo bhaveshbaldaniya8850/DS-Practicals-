@@ -1,5 +1,5 @@
-#Name: Aarya Vira
-#Roll No: 374
+#Name: Bhavesh Baldaniya
+#Roll No: 306
 
 class Hash:
     def _init_(self, keys, lowerrange, higherrange):
